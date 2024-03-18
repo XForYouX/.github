@@ -1,6 +1,8 @@
 ## Hi there 👋
 
+# I'm just a beginner who is learning to be better #
+# My Nick ForYou #
+
 <!--
-I'm just a beginner who is learning to be better
-My Nick ForYou
+
 -->
